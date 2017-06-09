@@ -198,3 +198,7 @@
 .ca-nav span:hover{
 	opacity:1.0;
 }
+/* added to test */
+test{
+	border: 1px solid red;
+}
